@@ -5,6 +5,8 @@ This repository contains my successful data analysis project focused on optimizi
 
 Through detailed metrics calculation, Pareto analysis, and root cause investigation using Excel, the project succeeded in uncovering actionable insights. This analysis not only highlighted the problems but also demonstrated clear paths to improvement, potentially boosting SA line availability from 80.86% to 95%+ and increasing overall production capacity by up to 20%.
 
+![](https://github.com/aliaagamall/Production-Downtime-Crackdown/blob/main/Summary%20Report.jpg)
+
 ## Repository Contents
 - **Project Overview**: High-level summary of the business problem, questions, metrics, and data details.
 - **Insights.pdf**: Visual insights and charts from the analysis.
